@@ -1,0 +1,4 @@
+使用pgrounting实现旅行商问题的服务器接口设计，以解决实际使用过程中的路径规划问题。      
+使用pgrounting必须安装postgis数据库，postgis数据库需要与其相关的postgissql。     
+postgis安装部署参考:https://blog.csdn.net/sinat_23246437/article/details/54341755     
+apt install postgresql postgresql-contrib postgis postgresql-9.5-postgis-2.2      
